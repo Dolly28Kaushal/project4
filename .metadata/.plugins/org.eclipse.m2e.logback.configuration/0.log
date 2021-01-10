@@ -1,0 +1,422 @@
+2020-11-22 19:39:38,083 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-22 19:39:43,895 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-22 19:39:43,896 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-22 19:39:43,897 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-22 19:39:50,458 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 23 sec
+2020-11-22 19:39:55,822 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:39:55,894 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-22 19:39:55,919 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:39:55,956 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:40:29,266 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-22 19:40:30,573 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-22 19:40:32,711 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-22 19:40:32,711 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-22 19:40:32,712 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-22 19:40:35,551 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-22 19:40:35,582 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-11-22 19:40:40,571 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:40:40,587 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-22 19:40:40,634 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:40:40,649 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:40:40,650 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-22 19:40:40,651 [Worker-8] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-22 19:40:40,660 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:47:30,348 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:47:30,358 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-22 19:47:30,359 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:47:30,368 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:48:53,796 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:48:53,813 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-22 19:48:53,815 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:48:53,829 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:49:37,557 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:49:37,570 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-22 19:49:37,571 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:49:37,579 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:50:16,958 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:50:16,972 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-22 19:50:16,973 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:50:16,983 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:52:32,320 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:52:32,328 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-22 19:52:32,329 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:52:32,338 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:54:04,116 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:54:04,123 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-22 19:54:04,124 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:54:04,137 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:54:35,312 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-22 19:54:36,243 [Worker-53] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-22 19:54:37,234 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-22 19:54:37,234 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-22 19:54:37,235 [Worker-53] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-22 19:54:38,937 [Worker-53] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-22 19:54:38,947 [Worker-53] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-11-22 19:54:42,503 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:54:42,522 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-22 19:54:42,575 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:54:42,588 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:54:42,589 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-22 19:54:42,590 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-22 19:54:42,599 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:56:41,595 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:56:41,618 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-22 19:56:41,637 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:56:41,645 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:56:59,072 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-22 19:56:59,991 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-22 19:57:01,145 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-22 19:57:01,145 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-22 19:57:01,146 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-22 19:57:02,951 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-22 19:57:02,962 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2020-11-22 19:57:08,558 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:57:08,572 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-22 19:57:08,608 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 19:57:08,620 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-22 19:57:08,621 [Worker-61] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-22 19:57:08,621 [Worker-61] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-22 19:57:08,629 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:57:33,153 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:57:33,224 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-22 23:57:33,245 [Worker-84] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:57:33,280 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:15:16,809 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:15:16,845 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:15:16,849 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:15:16,880 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:15:41,297 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:15:41,329 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:15:41,332 [Worker-86] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:15:41,362 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:15:52,784 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:15:52,814 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:15:52,818 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:15:52,841 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:16:06,377 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:16:06,408 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:16:06,413 [Worker-88] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:16:06,439 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:16:27,470 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:16:27,504 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:16:27,508 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:16:27,536 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:16:42,575 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:16:42,600 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:16:42,602 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:16:42,627 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:17:00,832 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:17:00,859 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:17:00,865 [Worker-89] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:17:00,898 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:17:20,078 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:17:20,112 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:17:20,115 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:17:20,146 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:23:59,179 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:23:59,211 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:23:59,215 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:23:59,238 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 00:24:46,070 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:24:46,096 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 00:24:46,098 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 00:24:46,118 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 09:57:50,640 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 09:57:50,676 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 09:57:50,679 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 09:57:50,708 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 12:37:17,176 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 12:37:17,197 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 12:37:17,199 [Worker-144] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 12:37:17,213 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 12:37:36,241 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 12:37:36,257 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 12:37:36,258 [Worker-142] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 12:37:36,268 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 12:37:46,661 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 12:37:46,674 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 12:37:46,675 [Worker-147] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 12:37:46,688 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 13:44:37,109 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 13:44:37,125 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 13:44:37,127 [Worker-159] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 13:44:37,137 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-23 13:44:57,600 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 13:44:57,611 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 13:44:57,612 [Worker-167] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 13:44:57,622 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 11:00:57,776 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:00:57,809 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 11:00:57,812 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:00:57,833 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 11:01:48,211 [Worker-255] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:01:48,713 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 11:01:48,715 [Worker-255] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:01:48,740 [Worker-255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 11:04:12,683 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:04:12,711 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 11:04:12,714 [Worker-260] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:04:12,738 [Worker-260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 11:07:48,758 [Worker-263] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:07:48,795 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 11:07:48,798 [Worker-263] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:07:48,830 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 11:08:36,759 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:08:36,810 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 11:08:36,813 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:08:36,866 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 11:08:44,730 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:08:44,762 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 11:08:44,765 [Worker-259] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:08:44,798 [Worker-259] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 11:15:59,007 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:15:59,074 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-26 11:15:59,082 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 11:15:59,122 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 13:32:56,050 [Worker-263] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 13:32:56,088 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 13:32:56,091 [Worker-263] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 13:32:56,259 [Worker-263] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 15:32:49,724 [Worker-310] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 15:32:49,743 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 15:32:49,744 [Worker-310] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 15:32:49,759 [Worker-310] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 16:07:38,568 [Worker-323] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-26 16:07:45,099 [Worker-323] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-26 16:07:47,954 [Worker-323] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-26 16:07:47,955 [Worker-323] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-26 16:07:47,956 [Worker-323] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-26 16:07:50,047 [Worker-323] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-26 16:07:50,090 [Worker-323] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2020-11-26 16:08:06,094 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:06,108 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-26 16:08:06,135 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:06,147 [Worker-331] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 16:08:06,148 [Worker-331] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-26 16:08:06,148 [Worker-331] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-26 16:08:06,157 [Worker-331] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:27,274 [Worker-338] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\project4\project\ORSProject4
+2020-11-26 16:08:27,275 [Worker-338] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2020-11-26 16:08:32,796 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:32,847 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-26 16:08:32,919 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:32,951 [Worker-329] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 16:08:32,953 [Worker-329] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-26 16:08:32,954 [Worker-329] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-26 16:08:32,967 [Worker-329] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:48,489 [Worker-336] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\project4\project\ORSProject4
+2020-11-26 16:08:48,489 [Worker-336] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2020-11-26 16:08:56,589 [Worker-339] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:56,606 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-26 16:08:56,607 [Worker-339] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:08:56,634 [Worker-339] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 16:09:21,536 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-11-26 16:09:54,099 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-11-26 16:10:15,170 [Worker-331] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\project4\project\ORSProject4
+2020-11-26 16:10:15,170 [Worker-331] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests clean install
+2020-11-26 16:25:43,143 [Worker-342] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:25:43,204 [Worker-342] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-26 16:25:43,241 [Worker-342] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:25:43,257 [Worker-342] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 16:26:45,633 [Worker-346] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-26 16:26:46,883 [Worker-346] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-26 16:26:49,109 [Worker-346] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-26 16:26:49,110 [Worker-346] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-26 16:26:49,112 [Worker-346] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-26 16:26:51,171 [Worker-346] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-26 16:26:51,183 [Worker-346] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-11-26 16:26:58,037 [Worker-363] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:26:58,070 [Worker-363] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-26 16:26:58,125 [Worker-363] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:26:58,147 [Worker-363] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-26 16:26:58,148 [Worker-363] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-26 16:26:58,148 [Worker-363] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-26 16:26:58,159 [Worker-363] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-26 16:27:22,719 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-11-26 16:27:36,643 [Worker-352] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\project4\project\ORSProject4
+2020-11-26 16:27:36,643 [Worker-352] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests clean install
+2020-11-27 11:45:00,208 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:45:00,245 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 11:45:00,260 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:45:00,276 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 11:45:25,122 [Worker-26] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-27 11:45:38,909 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:45:38,937 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 11:45:38,979 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:45:39,016 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 11:45:39,017 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-27 11:45:39,019 [Worker-9] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-27 11:45:39,181 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:45:40,368 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:45:40,397 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 11:45:40,400 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:45:40,419 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 11:49:35,810 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:49:35,842 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 11:49:35,854 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 11:49:35,873 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 12:02:11,059 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 12:02:11,092 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 12:02:11,096 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 12:02:11,107 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 13:04:38,289 [Worker-51] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-27 13:04:39,519 [Worker-51] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-27 13:04:43,882 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-27 13:04:43,883 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-27 13:04:43,883 [Worker-51] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-27 13:04:47,503 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-27 13:04:47,526 [Worker-51] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 9 sec
+2020-11-27 13:05:08,436 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 13:05:08,449 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 13:05:08,475 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 13:05:08,485 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 13:05:08,486 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-27 13:05:08,487 [Worker-54] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-27 13:05:08,492 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 18:52:03,739 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 18:52:03,794 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 18:52:03,797 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 18:52:03,829 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 18:53:24,437 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 18:53:24,512 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 18:53:24,519 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 18:53:24,597 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 18:53:52,032 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-27 18:53:56,432 [Worker-97] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-27 18:54:00,367 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-27 18:54:00,369 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-27 18:54:00,372 [Worker-97] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-27 18:54:04,017 [Worker-97] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-27 18:54:04,065 [Worker-97] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 12 sec
+2020-11-27 18:54:21,131 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 18:54:21,155 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 18:54:21,228 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 18:54:21,266 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 18:54:21,268 [Worker-104] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-27 18:54:21,268 [Worker-104] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-27 18:54:21,288 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:15:37,603 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:15:37,638 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 19:15:37,641 [Worker-114] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:15:37,665 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 19:20:56,827 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:20:56,856 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 19:20:56,861 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:20:56,891 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 19:25:48,916 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:25:48,942 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 19:25:48,945 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:25:48,967 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 19:25:58,001 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:25:58,029 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 19:25:58,033 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:25:58,058 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 19:31:39,780 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:31:39,816 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 19:31:39,819 [Worker-124] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 19:31:39,841 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 20:54:06,612 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 20:54:06,645 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 20:54:06,657 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 20:54:06,678 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:24:16,756 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:24:16,814 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 23:24:16,837 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:24:16,871 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:24:44,514 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:24:44,545 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 23:24:44,548 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:24:44,570 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:25:58,737 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-27 23:26:03,861 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-27 23:26:05,872 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-27 23:26:05,873 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-27 23:26:05,873 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-27 23:26:09,733 [Worker-14] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-27 23:26:09,755 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2020-11-27 23:26:28,358 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:26:28,369 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 23:26:28,391 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:26:28,401 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:26:28,401 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-27 23:26:28,402 [Worker-11] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-27 23:26:28,415 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:38:31,079 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:38:31,109 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 23:38:31,110 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:38:31,138 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:40:27,307 [Worker-13] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-27 23:40:28,525 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:40:28,537 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 23:40:28,559 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:40:28,569 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:40:28,569 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-27 23:40:28,570 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-27 23:40:28,584 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:41:04,726 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-27 23:41:06,661 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-27 23:41:07,856 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-27 23:41:07,857 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-27 23:41:07,857 [Worker-32] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-27 23:41:10,947 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-27 23:41:10,960 [Worker-32] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 6 sec
+2020-11-27 23:41:13,754 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:41:13,764 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 23:41:13,783 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:41:13,793 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:41:13,793 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-27 23:41:13,793 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-27 23:41:13,798 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:41:44,643 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-11-27 23:42:00,721 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\project4\project\ORSProject4
+2020-11-27 23:42:00,723 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dmaven.test.skip=true -DskipTests clean install
+2020-11-27 23:43:32,325 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:43:32,352 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-27 23:43:32,354 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:43:32,374 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:43:33,840 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:43:33,856 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 23:43:33,858 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:43:33,869 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:43:52,910 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-27 23:43:54,111 [Worker-27] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: in.co.rays.proj4:ORSProject4:0.0.1-SNAPSHOT @ C:\project4\project\ORSProject4\pom.xml.
+2020-11-27 23:43:55,543 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/main/java
+2020-11-27 23:43:55,543 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ORSProject4/src/main/resources
+2020-11-27 23:43:55,545 [Worker-27] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ORSProject4/src/test/java
+2020-11-27 23:43:58,153 [Worker-27] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ORSProject4
+2020-11-27 23:43:58,163 [Worker-27] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-11-27 23:44:02,133 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:44:02,143 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-27 23:44:02,176 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-27 23:44:02,186 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-27 23:44:02,186 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ORSProject4
+2020-11-27 23:44:02,187 [Worker-31] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ORSProject4
+2020-11-27 23:44:02,193 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-28 09:15:49,073 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-28 09:15:49,090 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-28 09:15:49,098 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-28 09:15:49,107 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-28 10:35:33,252 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-28 10:35:33,306 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-28 10:35:33,337 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-28 10:35:33,378 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-28 10:35:36,615 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-28 10:35:36,641 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-28 10:35:36,644 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-28 10:35:36,669 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-11-30 13:13:23,922 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-30 13:13:23,966 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-11-30 13:13:23,989 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-30 13:13:24,017 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-12-02 19:18:31,495 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-02 19:18:31,539 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-02 19:18:31,557 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-02 19:18:31,585 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2020-12-03 13:11:25,793 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-03 13:11:25,831 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-12-03 13:11:25,844 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-12-03 13:11:25,865 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
+2021-01-10 20:06:15,038 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-10 20:06:15,115 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-01-10 20:06:15,136 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-01-10 20:06:15,155 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\project4\project\ORSProject4\src\test\resources
